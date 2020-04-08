@@ -1,0 +1,29 @@
+{
+  "name": "graphql_playground",
+  "version": "1.0.0",
+  "description": "GraphQL playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codierknecht/graphql_playground.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "playground",
+    "facebook",
+    "fb",
+    "api"
+  ],
+  "author": "Christian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codierknecht/graphql_playground/issues"
+  },
+  "homepage": "https://github.com/codierknecht/graphql_playground#readme",
+  "dependencies": {
+    "graphql": "^15.0.0"
+  }
+}
